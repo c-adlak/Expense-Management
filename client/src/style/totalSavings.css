@@ -1,0 +1,11 @@
+.reportdate {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.reportdata {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
